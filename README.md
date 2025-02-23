@@ -165,3 +165,29 @@ http://localhost:8080/api/
 - Use the appropriate HTTP methods (`GET`, `POST`, `PUT`) based on the action being performed.
 - Handle responses properly based on the status codes provided.
 - Maintain security best practices while storing and managing passwords and authentication tokens.
+
+![1](https://github.com/user-attachments/assets/770e187a-ec9d-4180-80a5-a289e147b3d7)
+
+![2](https://github.com/user-attachments/assets/dbd2bcd6-b383-48d9-8894-66a0d93dbe01)
+
+![3](https://github.com/user-attachments/assets/d71576a5-c896-4774-b7f6-4939185bf69e)
+
+![4](https://github.com/user-attachments/assets/4f8b09e4-bd72-4aa0-b89a-9c576a88124a)
+
+![5](https://github.com/user-attachments/assets/5081d3fa-2bbd-4911-aa8b-45e6ee72dd07)
+
+![6](https://github.com/user-attachments/assets/faedd787-69e9-4d11-ad4a-4afd76f631dd)
+
+![7](https://github.com/user-attachments/assets/8eb033ac-8bc9-48d2-92a9-8b08566304a0)
+
+![8](https://github.com/user-attachments/assets/2b03624b-22f0-4baa-9d06-9898a9c6178e)
+
+![9](https://github.com/user-attachments/assets/61c324a2-f2a2-4469-af41-2f9a83d6061f)
+
+![10](https://github.com/user-attachments/assets/5d1017c2-747a-4789-9041-c5f3f1fed5ee)
+
+
+
+
+
+
